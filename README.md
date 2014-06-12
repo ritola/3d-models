@@ -1,4 +1,4 @@
-3d-models
+3D Models
 =========
 
-3D models
+Repository for 3D modelled things.
